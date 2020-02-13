@@ -1,11 +1,11 @@
 #Vercionameto 
 
- Gestão de várias versões de um software ou de outro tipo de dados
+ Gestão de várias versões de um software. 
 
 #Markdown
 
- Marcaçao de texto
+ Marcaçao de texto.
 
 #Markup Language
 
- Catologar o software prara facilitar quando for corrigir ou atualizar. 
+ Catologar o software prara facilitar quando for corrigir ou atualizar ou na hora da instalação.
